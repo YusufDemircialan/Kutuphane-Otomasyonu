@@ -1,0 +1,275 @@
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\bin\Debug\Guna.UI2.dll
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\proje\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Guna.UI2.dll
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Guna.UI2.dll
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Recep Yasin Göger\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\Yeni klasör\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+F:\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AçılışEkranı.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Yusuf\Desktop\201238006_YusufDemircialan_KütüphaneOtomasyonu\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AnaSayfa.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.HakkımdaPanel.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronGiriş.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronPanel.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiEkle.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiListesiVeGüncelleme.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.PatronYöneticiSil.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapListesi.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapVer.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiEmanetKitapİade.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGiriş.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiGrafikler.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapAra.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapEkle.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapListesiVeGüncelleme.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiKitapSil.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiPanel.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiSıralama.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeEkle.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeListesi.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiÜyeSil.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.YöneticiŞifreDeğiştir.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeBilgilerimiGüncelle.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeGiriş.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeKitapAra.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyePanel.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeÜzerimdekiKitaplar.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ÜyeŞifreDeğiştir.resources
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CopyComplete
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Yusuf\Documents\GitHub\C--Kutuphane-Otomasyonu\Kütüphane\Kütüphane Otomasyonu\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
